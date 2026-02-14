@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "SPEED",
+  "base_artist": "CLAN QUEEN",
+  "createdAt": "2026-02-14T05:07:39.048759Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Speed",
+      "artist": "Montgomery Gentry",
+      "has_synced": true,
+      "path": "select/01_Speed_Montgomery_Gentry.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Speed (Album Version)",
+      "artist": "Montgomery Gentry",
+      "has_synced": true,
+      "path": "select/02_Speed_(Album_Version)_Montgomery_Gentry.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Speed of Love",
+      "artist": "Florida Georgia Line",
+      "has_synced": true,
+      "path": "select/03_Speed_of_Love_Florida_Georgia_Line.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Speed Of The Sound Of Loneliness",
+      "artist": "John Prine",
+      "has_synced": false,
+      "path": "select/04_Speed_Of_The_Sound_Of_Loneliness_John_Prine.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "High Speed",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/05_High_Speed_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Speed of Sound",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/06_Speed_of_Sound_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lake Speed",
+      "artist": "Labradford",
+      "has_synced": true,
+      "path": "select/07_Lake_Speed_Labradford.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Speed Racin",
+      "artist": "Lil Mosey",
+      "has_synced": true,
+      "path": "select/08_Speed_Racin_Lil_Mosey.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Blues Not Speed",
+      "artist": "Mika Miko",
+      "has_synced": false,
+      "path": "select/09_Blues_Not_Speed_Mika_Miko.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hi-speed Boats",
+      "artist": "Mercury Rev",
+      "has_synced": false,
+      "path": "select/10_Hi-speed_Boats_Mercury_Rev.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Speed Demon",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/11_Speed_Demon_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Speed Law",
+      "artist": "Mos Def",
+      "has_synced": false,
+      "path": "select/12_Speed_Law_Mos_Def.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Speed The Collapse",
+      "artist": "Metric",
+      "has_synced": true,
+      "path": "select/13_Speed_The_Collapse_Metric.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hi Speed Soul",
+      "artist": "Nada Surf",
+      "has_synced": true,
+      "path": "select/14_Hi_Speed_Soul_Nada_Surf.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Shoot Speed/Kill Light",
+      "artist": "Primal Scream",
+      "has_synced": true,
+      "path": "select/15_Shoot_Speed_Kill_Light_Primal_Scream.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Shoot Speed \u0000 Kill Light",
+      "artist": "Primal Scream",
+      "has_synced": true,
+      "path": "select/16_Shoot_Speed_\u0000_Kill_Light_Primal_Scream.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Shoot Speed / Kill Light (Live At The Zepp)",
+      "artist": "Primal Scream",
+      "has_synced": true,
+      "path": "select/17_Shoot_Speed___Kill_Light_(Live_At_The_Zepp)_Primal_Scream.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SPEED",
+      "artist": "CLAN QUEEN",
+      "has_synced": false,
+      "path": "select/pl_01_SPEED_CLAN_QUEEN.txt"
+    }
+  ]
+}
